@@ -6,3 +6,4 @@ repo2 commit4
 repo2 commit6
 repo2 commit8
 repo1 commit10 (after merging repo2)
+repo1 commit12 (after merging repo2)
